@@ -24,13 +24,13 @@
     /></a>
   </p>
 
-🔭 I’m currently working on **Front-End Technologies**
-🌱 I’m currently learning **Latest JavaScript Libraries and Frameworks like Next JS**
-👯 I’m looking to collaborate on **MERN/MEAN Stack developer**
-👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/)
-💬 Ask me about **Digital Marketing, Brand Building, Marketing Strategy, Advertising, Brand Designs, Cloud Application Development, Corporate Photography, Search Engine Optimization (SEO), IT Consulting, Application Development**
-📫 How to reach me **hurairtaqvi@gmail.com**
-⚡ Fun fact **Shy but confident🤔😄**
+🔭 I’m currently working on **Front-End Technologies** <br>
+🌱 I’m currently learning **Latest JavaScript Libraries and Frameworks like Next JS**<br>
+👯 I’m looking to collaborate on **MERN/MEAN Stack developer**<br>
+👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
+💬 Ask me about **Digital Marketing, Brand Building, Marketing Strategy, Advertising, Brand Designs, Cloud Application Development, Corporate Photography, Search Engine Optimization (SEO), IT Consulting, Application Development**<br>
+📫 How to reach me **hurairtaqvi@gmail.com**<br>
+⚡ Fun fact **Shy but confident🤔😄**<br>
 
   <p3>Technologies</p3>
   <kbd>
