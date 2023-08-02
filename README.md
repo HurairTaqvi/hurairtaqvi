@@ -29,16 +29,16 @@
 👯 I’m looking to collaborate on **MERN/MEAN Stack developer**<br>
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
 💬 Ask me about 
-<ol>Digital Marketing</ol>
-<ol>Brand Building</ol>
-<ol>Marketing Strategy</ol>
-<ol>Advertising</ol>
-<ol>Brand Designs<ol>
-<ol>Cloud Application Development</ol>
-<ol>Corporate Photography</ol>
-<ol>Search Engine Optimization (SEO)</ol>
-<ol>IT Consulting</ol>
-<ol>Application Development</ol><br>
+<br>Digital Marketing
+<br>Brand Building
+<br>Marketing Strategy
+<br>Advertising
+<br>Brand Designs
+<br>Cloud Application Development
+<br>Corporate Photography
+<br>Search Engine Optimization (SEO)
+<br>IT Consulting
+<br>Application Development<br>
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
 
