@@ -28,7 +28,17 @@
 🌱 I’m currently learning **Latest JavaScript Libraries and Frameworks like Next JS**<br>
 👯 I’m looking to collaborate on **MERN/MEAN Stack developer**<br>
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
-💬 Ask me about **Digital Marketing, Brand Building, Marketing Strategy, Advertising, Brand Designs, Cloud Application Development, Corporate Photography, Search Engine Optimization (SEO), IT Consulting, Application Development**<br>
+💬 Ask me about 
+<li>Digital Marketing<li>, 
+<li>Brand Building</li>
+<li>Marketing Strategy</li>
+<li>Advertising</li>
+<li>Brand Designs<li>
+<li>Cloud Application Development</li>
+<li>Corporate Photography</li>
+<li>Search Engine Optimization (SEO)</li>
+<li>IT Consulting</li>
+<li>Application Development</li><br>
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
 
