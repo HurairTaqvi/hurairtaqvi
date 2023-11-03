@@ -24,7 +24,7 @@
     /></a>
   </p>
 
-🔭 I’m currently working on **Front-End Technologies** <br>
+🔭 Beyond imagination towards **Full Stack Web Technologies** <br>
 🌱 I’m currently learning **Latest JavaScript Libraries and Frameworks like Next JS**<br>
 👯 I’m looking to collaborate on **MERN/MEAN Stack developer**<br>
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
