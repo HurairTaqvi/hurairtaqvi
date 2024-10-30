@@ -36,11 +36,7 @@
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
 💬 Ask me about
-<br>=> Software Developement
-<br>=> Web Application Development
-<br>=> Cloud Application Development
-<br>=> WordPress/CMS Developement
-<br>=> Search Engine Optimization - SEO
+<br>Software Developement | Web Application Development | Cloud Application Development | WordPress/CMS Developement | Search Engine Optimization - SEO
 
   <p3>Technologies</p3>
   <kbd>
