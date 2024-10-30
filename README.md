@@ -1,5 +1,4 @@
-![MasterHead](https://videos.pexels.com/video-files/5240980/5240980-uhd_2560_1440_30fps.mp4)
-<!--![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)-->
+[MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 
 <h1 align="center">Hey👋, This is Hurair Taqvi</h1>
