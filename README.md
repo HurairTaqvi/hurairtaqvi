@@ -31,15 +31,14 @@
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
 💬 Ask me about
-<br>=> Digital Marketing
-<br>=> Brand Building
-<br>=> Marketing Strategy
-<br>=> Advertising
-<br>=> Brand Designs
+<br>=> Software Developement
+<br>=> Web Application Development<br>
 <br>=> Cloud Application Development
-<br>=> Corporate Photography
-<br>=> Search Engine Optimization (SEO)
-<br>=> Application Development<br>
+<br>=> WordPress/CMS Developement
+<br>=> Search Engine Optimization - SEO
+<br>=> Brand Building & Marketing Strategy
+<br>=> Advertising/Branding 
+<br>=> Photography/Videography
 
   <p3>Technologies</p3>
   <kbd>
