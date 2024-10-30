@@ -35,8 +35,8 @@
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
-💬 Ask me about
-<br>Software Developement | Web Application Development | Cloud Application Development | WordPress/CMS Developement | Search Engine Optimization - SEO
+<!-- 💬 Ask me about
+<br>Software Developement | Web Application Development | Cloud Application Development | WordPress/CMS Developement | Search Engine Optimization - SEO -->
 
   <p3>Technologies</p3>
   <kbd>
