@@ -1,4 +1,6 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://www.pexels.com/video/three-monitor-computer-set-up-5240980/)
+<!--![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)-->
+
 
 <h1 align="center">Hey👋, This is Hurair Taqvi</h1>
 <h3 align="center">
