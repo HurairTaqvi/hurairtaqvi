@@ -28,7 +28,7 @@
     /></a>
   </p>
 👋 Hi, I’m Hurair, a Software Enthusiast having 7+ years of experience creating and improving digital products. I’ve helped build and enhance the quality of 30+ web and mobile applications, making sure they work smoothly and deliver great user experiences. From planning to launch, I take care of the full development and testing process to ensure every project meets both user needs and business goals. I’ve worked with startups, enterprises, and global clients, constantly learning through hands-on challenges and real-world solutions.
-<br>
+<br/>
 
 🚀 Building Digital Products That Work
 I specialize in end-to-end product development, turning concepts into real, scalable digital solutions.
@@ -38,11 +38,11 @@ I specialize in end-to-end product development, turning concepts into real, scal
 🧩 Agile, feedback-driven features
 From SaaS platforms to enterprise tools, I align development with business goals for long-term value.
 
-<br>
+<br/>
 🌍 Industries I've Worked In
 💳 Fintech and Payments, 🚕 Ride-Hailing, 🍔 Food Delivery, 🦷 Dental & Healthcare, 🛂 Immigration & Legal Tech, 🧑‍💼 CRM & HR Systems, 🧩 Multi-Service Portals
 
-<br>
+<br/>
 🛠️ Core Strengths
 🔧 Angular, React, Next.js
 🧪 Manual and exploratory testing (Web, Android, iOS)
@@ -52,7 +52,7 @@ From SaaS platforms to enterprise tools, I align development with business goals
 🌀 Agile execution using JIRA and sprint planning
 🤝 Collaboration with QA, DevOps, design, and business teams
 
-<br>
+<br/>
 🧪 Testing Focus Areas
 ✅ App permissions (camera, location, storage)
 🔔 Notifications in all app states
@@ -61,7 +61,8 @@ From SaaS platforms to enterprise tools, I align development with business goals
 📍 Real-time GPS tracking
 🔌 API and payment validations
 📦 Version control and deployment checks
-<br>
+
+<br/>
 🧠 Technical Toolbox
 💻 JavaScript, TypeScript, SQL, React, Angular, Node.js, C++
 🎨 HTML5, CSS3, Tailwind, Bootstrap, WordPress, Shopify
@@ -70,15 +71,15 @@ From SaaS platforms to enterprise tools, I align development with business goals
 🧑‍🎨 Figma, Photoshop, Illustrator, Premiere Pro, Canva
 📝 SRS, BRD, test cases, user manuals, eBooks
 
-<br>
+<br/>
 🧑‍💼 Tech Meets Business
 As Co-Founder of LeatherChamra, I lead digital strategy, product design, and brand development. I combine technical execution with entrepreneurial vision to build scalable, impactful products.
 
-<br>
+<br/>
 ✨I came to see that my thoughts blend artistic flair with logical insight, and that’s why I like to say:
 "I have a brain where Picasso 🎨 and Einstein 🧪 cook up ideas together, sometimes it burns, but sometimes it’s absolutely delicious😋"
 
-<br>
+<br/>
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
