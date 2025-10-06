@@ -30,13 +30,13 @@
 👋 Hi, I’m Hurair, a Software Enthusiast having 7+ years of experience creating and improving digital products. I’ve helped build and enhance the quality of 30+ web and mobile applications, making sure they work smoothly and deliver great user experiences. From planning to launch, I take care of the full development and testing process to ensure every project meets both user needs and business goals. I’ve worked with startups, enterprises, and global clients, constantly learning through hands-on challenges and real-world solutions.
 <br/>
 
-🚀 Building Digital Products That Work
-I specialize in end-to-end product development, turning concepts into real, scalable digital solutions.
-⚡ MVPs and rapid prototypes
-🎨 Responsive, intuitive UI/UX
-📱 Cross-platform applications
-🧩 Agile, feedback-driven features
-From SaaS platforms to enterprise tools, I align development with business goals for long-term value.
+🚀 Building Digital Products That Work<br/>
+I specialize in end-to-end product development, turning concepts into real, scalable digital solutions.<br/>
+⚡ MVPs and rapid prototypes<br/>
+🎨 Responsive, intuitive UI/UX<br/>
+📱 Cross-platform applications<br/>
+🧩 Agile, feedback-driven features<br/>
+From SaaS platforms to enterprise tools, I align development with business goals for long-term value.<br/>
 
 
 <br/>
