@@ -27,7 +27,8 @@
         alt="hurairtaqvi"
     /></a>
   </p>
-👋 Hi, I’m Hurair, a Software Enthusiast having 7+ years of experience creating and improving digital products. I’ve helped build and enhance the quality of 30+ web and mobile applications, making sure they work smoothly and deliver great user experiences. From planning to launch, I take care of the full development and testing process to ensure every project meets both user needs and business goals. I’ve worked with startups, enterprises, and global clients, constantly learning through hands-on challenges and real-world solutions.
+👋 Hi, I’m Hurair, a Software Enthusiast having 7+ years of experience creating and improving digital products. I’ve helped build and enhance the quality of 30+ web and mobile applications, making sure they work smoothly and deliver great user experiences. From planning to launch, I take care of the full development and testing process to ensure every project meets both user needs and business goals. I’ve worked with startups, enterprises, and global clients, constantly learning through hands-on challenges and real-world solutions.<br/>
+<br/>
 <br/>
 
 🚀 Building Digital Products That Work<br/>
