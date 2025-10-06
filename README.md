@@ -40,8 +40,14 @@ From SaaS platforms to enterprise tools, I align development with business goals
 
 
 <br/>
-🌍 Industries I've Worked In
-💳 Fintech and Payments, 🚕 Ride-Hailing, 🍔 Food Delivery, 🦷 Dental & Healthcare, 🛂 Immigration & Legal Tech, 🧑‍💼 CRM & HR Systems, 🧩 Multi-Service Portals
+🌍 Industries I've Worked In<br/>
+💳 Fintech and Payments,<br/>
+🚕 Ride-Hailing,<br/>
+🍔 Food Delivery,<br/>
+🦷 Dental & Healthcare,<br/>
+🛂 Immigration & Legal Tech,<br/>
+🧑‍💼 CRM & HR Systems,<br/>
+🧩 Multi-Service Portals<br/>
 
 
 <br/>
