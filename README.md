@@ -92,6 +92,7 @@ As Co-Founder of LeatherChamra, I lead digital strategy, product design, and bra
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hurairtaqvi/](https://www.linkedin.com/in/hurairtaqvi/) <br>
 📫 How to reach me **hurairtaqvi@gmail.com**<br>
 ⚡ Fun fact **Shy but confident🤔😄**<br>
+<br/><br/>
 <!-- 💬 Ask me about
 <br>Software Developement | Web Application Development | Cloud Application Development | WordPress/CMS Developement | Search Engine Optimization - SEO -->
 
