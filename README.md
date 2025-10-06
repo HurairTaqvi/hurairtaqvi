@@ -11,9 +11,8 @@
 <h1 align="center">Hey👋, This is Hurair Taqvi</h1>
 <h3 align="center">
   <h3 align="center">
-    𝙸'𝚖 𝚊 𝚜𝚎𝚕𝚏-𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚜𝚔𝚒𝚕𝚕𝚎𝚍 𝚙𝚎𝚛𝚜𝚘𝚗, 𝚜𝚖𝚊𝚛𝚝, 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 & 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎. 𝙸𝚗 𝚜𝚎𝚊𝚛𝚌𝚑 𝚘𝚏 𝚝𝚑𝚎 𝚕𝚊𝚝𝚎𝚜𝚝 𝚝𝚛𝚎𝚗𝚍𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜. 𝙸 𝚕𝚘𝚟𝚎 𝚗𝚊𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚊𝚕𝚠𝚊𝚢𝚜 𝚛𝚎𝚊𝚍𝚢 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚋𝚎𝚊𝚞𝚝𝚢 𝚘𝚏 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚎, 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚎𝚗𝚓𝚘𝚢𝚎𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚒𝚍𝚎𝚊𝚜 & 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚜.
+    🚀Software Engineer👨🏻‍💻Innovation-Driven AI, Tech & Science Explorer🔭Startup Visionary 🧠 Architect & Code Craftsman💻Software Quality Assurance🧪Automation📊Intelligence Researcher🎯Social Activist 🎮
   </h3>
-
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=hurairtaqvi&label=Profile%20views&color=0e75b6&style=flat"
