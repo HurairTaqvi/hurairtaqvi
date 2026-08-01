@@ -113,10 +113,10 @@ I enjoy collaborating with engineers, product managers, designers, and business 
 
 # 📈 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HurairTaqvi&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HurairTaqvi&theme=github-dark&hide_border=true"/>
-</p> -->
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurairTaqvi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
@@ -151,7 +151,6 @@ I enjoy collaborating with engineers, product managers, designers, and business 
 # 🤝 Let's Connect
 
 <p align="center">
-
 <a href="mailto:hurairtaqvi@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
@@ -163,7 +162,6 @@ I enjoy collaborating with engineers, product managers, designers, and business 
 <a href="https://github.com/HurairTaqvi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
