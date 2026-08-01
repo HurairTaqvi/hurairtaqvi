@@ -27,7 +27,17 @@
         alt="hurairtaqvi"
     /></a>
   </p>
-👋 Hi, I’m Hurair, a Software Enthusiast having 7+ years of experience creating and improving digital products. I’ve helped build and enhance the quality of 30+ web and mobile applications, making sure they work smoothly and deliver great user experiences. From planning to launch, I take care of the full development and testing process to ensure every project meets both user needs and business goals. I’ve worked with startups, enterprises, and global clients, constantly learning through hands-on challenges and real-world solutions.<br/>
+👋 Hi, I'm Hurair, a software engineer bridging hands-on quality ownership with product-level thinking.
+ 
+💼 Over 5+ years, I've helped shape how products are built, tested, and shipped, from defining requirements and user journeys to validating releases that solve real problems and hold up in real-world use. I've contributed to 60+ web applications, 20+ mobile apps, and 15+ software products across 14+ industries, including FinTech, HealthTech, SaaS, Ride-Hailing, E-commerce, and Enterprise Solutions, many now used by millions of people worldwide.
+ 
+⚡ What sets me apart: I don't just test products, I bring a builder's mindset to every one of them, partnering closely with engineering, design, and stakeholders to catch issues early and keep quality and user experience aligned with business goals.
+ 
+🏆 I use modern tools and AI-driven workflows to move fast without cutting corners on reliability, and I bring that same ownership mentality whether I'm validating a release or shaping the product itself.
+ 
+🤝 I work well within cross-functional teams, engineers, product owners, designers, and thrive on turning ambiguous requirements into shipped, dependable software.
+ 
+💡 My focus is building products people can actually rely on, one release at a time.<br/>
 <br/>
 <br/>
 
