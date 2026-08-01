@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Syed Muhammad Hurair
 
-### Software Engineer • Software Quality Assurance Engineer • Software Development Engineer in Test • Product Manager
+### Software Engineer • Quality Assurance Engineer • Development Engineer in Test • Product Manager
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Reliable+Software.;Engineering+Quality+into+Every+Release.;Software+Engineer+%7C+SQA+Engineer+%7C+SDET.;Product+Thinking+%2B+Engineering.;Always+Learning+%F0%9F%9A%80" />
 
