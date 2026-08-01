@@ -114,8 +114,14 @@ I enjoy collaborating with engineers, product managers, designers, and business 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurairTaqvi&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HurairTaqvi&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=HurairTaqvi&theme=github-dark&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurairTaqvi&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
 ---
 
 # 🚀 Featured Projects
