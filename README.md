@@ -35,7 +35,7 @@ I'm a **Software Engineer**, **Software Quality Assurance Engineer (SQA)**, **So
 
 I've contributed to **60+ Web Applications**, **20+ Mobile Applications**, and **15+ Software Products** across **14+ industries**, including **FinTech, HealthTech, SaaS, Ride-Hailing, E-commerce, Enterprise Solutions, FoodTech, CRM, HR Systems, and LegalTech**.
 
-My experience spans the complete software lifecycle—from **product discovery, requirement analysis, software engineering, quality assurance, test automation, and release management** to delivering products that solve real business problems.
+My experience spans the complete software lifecycle, from **product discovery, requirement analysis, software engineering, quality assurance, test automation, and release management** to delivering products that solve real business problems.
 
 I've worked on products supporting:
 
@@ -113,18 +113,12 @@ I enjoy collaborating with engineers, product managers, designers, and business 
 
 # 📈 GitHub Analytics
 
-<p align="center">
-
+<!-- <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HurairTaqvi&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HurairTaqvi&theme=github-dark&hide_border=true"/>
-
-</p>
-
+</p> -->
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurairTaqvi&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
